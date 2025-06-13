@@ -44,3 +44,32 @@ The index of elemnt 6:  3
 Count 7:  2
 []
 '''
+
+
+#Tuple Methods
+T = ('a',6,'Hai',[4,7],'a')
+print(T)
+print(T[3])
+print(T[3][1])
+print(T[2])
+print(T[2][0])
+print(T.count('a'))
+print(T.index('a'))
+'''
+Output TUPLE methods:
+('a', 6, 'Hai', [4, 7], 'a')
+[4, 7]
+7
+Hai
+H
+2
+0
+'''
+#Set Methodsd
+
+
+
+
+
+
+
