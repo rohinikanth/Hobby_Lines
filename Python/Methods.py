@@ -1,4 +1,4 @@
-#List Methods
+#1.List Methods
 
 l=[4,5,6,7,8,7]
 
@@ -54,7 +54,7 @@ output enumerate():
 '''
 
 
-#Tuple Methods
+#2.Tuple Methods
 T = ('a',6,'Hai',[4,7],'a')
 print(T)
 print(T[3])
@@ -75,7 +75,7 @@ H
 '''
 
 
-#Set Methods
+#3.Set Methods
 a = set('abracadabra')
 b = set('alacazam')
 
@@ -99,6 +99,7 @@ print("Using update method",a)
 
 a.update('97')
 print("Using update method",a)
+
 '''
 output:
 A: {'d', 'a', 'r', 'b', 'c'}
@@ -146,7 +147,7 @@ Cleared Set1: set()
 '''
 
 
-#Dictionary methods
+#4.Dictionary methods
 
 knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 
