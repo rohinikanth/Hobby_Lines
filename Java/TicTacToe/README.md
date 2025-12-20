@@ -24,5 +24,5 @@ A complete Tic Tac Toe game built using **Java Swing** with a clean UI, sound ef
 
 ---
 
-##  Project Structure
+
 
