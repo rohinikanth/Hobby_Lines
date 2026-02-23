@@ -8,7 +8,7 @@ More information about the course can be found [here](https://www.coursera.org/l
 
 
 
-# Emotion Detection & Sentiment Analysis Web Application
+# Emotion Detection Web Application
 
 ## Project Overview
 
@@ -128,38 +128,4 @@ The application handles:
 This prevents unexpected crashes and ensures a stable user experience.
 
 ---
-
-## Code Quality
-
-* Static code analysis performed
-* Code adheres to **PEP8 guidelines**
-* Modular design for maintainability
-* Clear documentation and comments included
-
----
-
-## Learning Outcomes
-
-By completing this project, the following skills were demonstrated:
-
-* Integration of AI APIs into web applications
-* JSON parsing and response formatting
-* Modular Python packaging
-* Unit testing practices
-* Flask-based deployment
-* Backend error handling strategies
-* Writing production-quality, PEP8-compliant code
-
----
-
-## Future Improvements
-
-* Add emotion classification beyond sentiment (e.g., joy, anger, fear)
-* Add frontend styling enhancements
-* Implement REST API endpoint for external integration
-* Add Docker containerization
-* Deploy to cloud platforms (AWS, Azure, GCP)
-
----
-
 
